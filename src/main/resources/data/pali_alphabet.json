@@ -1,15 +1,47 @@
 {
   "Id": "21246646-6566-47f0-b565-ac5e6e9760f9",
   "Name": "Pāli",
-  "Characters": [
-    "a",
-    "ā",
-    "i",
-    "ī",
-    "u",
-    "ū",
-    "e",
-    "o",
+  "Letters": [
+    {
+      "Romanized": "a",
+      "Classification": "vowel",
+      "Pronunciation": "like u in but"
+    },
+    {
+      "Romanized": "ā",
+      "Classification": "vowel",
+      "Pronunciation": "like a in art"
+    },
+    {
+      "Romanized": "i",
+      "Classification": "vowel",
+      "Pronunciation": "like i in pin"
+    },
+    {
+      "Romanized": "ī",
+      "Classification": "vowel",
+      "Pronunciation": "like i in machine"
+    },
+    {
+      "Romanized": "u",
+      "Classification": "vowel",
+      "Pronunciation": "like u in put"
+    },
+    {
+      "Romanized": "ū",
+      "Classification": "vowel",
+      "Pronunciation": "like u in rule"
+    },
+    {
+      "Romanized": "e",
+      "Classification": "vowel",
+      "Pronunciation": "before double consonants short like e in ten; before single consonant long like a in fate"
+    },
+    {
+      "Romanized": "o",
+      "Classification": "vowel",
+      "Pronunciation": "before double consonants short like o in hot; before single consonant like o in note"
+    },
     "k",
     "kh",
     "g",
