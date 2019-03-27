@@ -4,59 +4,119 @@
   "Letters": [
     {
       "Romanized": "a",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like u in but"
     },
     {
       "Romanized": "ā",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like a in art"
     },
     {
       "Romanized": "i",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like i in pin"
     },
     {
       "Romanized": "ī",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like i in machine"
     },
     {
       "Romanized": "u",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like u in put"
     },
     {
       "Romanized": "ū",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "like u in rule"
     },
     {
       "Romanized": "e",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "before double consonants short like e in ten; before single consonant long like a in fate"
     },
     {
       "Romanized": "o",
-      "Classification": "vowel",
+      "Classifications": ["vowel"],
       "Pronunciation": "before double consonants short like o in hot; before single consonant like o in note"
     },
-    "k",
-    "kh",
-    "g",
-    "gh",
-    "ɲ",
-    "c",
-    "ch",
-    "j",
-    "jh",
-    "ñ",
-    "ṭ",
-    "ṭh",
-    "ḍ",
-    "ḍh",
-    "ṇ",
+    {
+      "Romanized": "k",
+      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Pronunciation": "like k in key"
+    },
+    {
+      "Romanized": "kh",
+      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Pronunciation": "like kh in blockhead,"
+    },
+    {
+      "Romanized": "g",
+      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Pronunciation": "like g in get"
+    },
+    {
+      "Romanized": "gh",
+      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Pronunciation": "like gh in pighead"
+    },
+    {
+      "Romanized": "ɲ",
+      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Pronunciation": "like ng in ring"
+    },
+    {
+      "Romanized": "c",
+      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Pronunciation": "like ch in rich"
+    },
+    {
+      "Romanized": "ch",
+      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "j",
+      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Pronunciation": "like j in jug"
+    },
+    {
+      "Romanized": "jh",
+      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "ñ",
+      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Pronunciation": "like gn in signor"
+    },
+    {
+      "Romanized": "ṭ",
+      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Pronunciation": "like t in not"
+    },
+    {
+      "Romanized": "ṭh",
+      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "ḍ",
+      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Pronunciation": "like d in hid"
+    },
+    {
+      "Romanized": "ḍh",
+      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "ṇ",
+      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Pronunciation": "like n in hint"
+    },
     "t",
     "th",
     "d",
