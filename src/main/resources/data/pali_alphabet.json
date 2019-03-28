@@ -64,7 +64,7 @@
     },
     {
       "Romanized": "ɲ",
-      "Classifications": ["consonant", "guttural", "ka-group"],
+      "Classifications": ["consonant", "guttural", "ka-group", "nasal"],
       "Pronunciation": "like ng in ring"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "Romanized": "ñ",
-      "Classifications": ["consonant", "palatal", "ca-group"],
+      "Classifications": ["consonant", "palatal", "ca-group", "nasal"],
       "Pronunciation": "like gn in signor"
     },
     {
@@ -114,26 +114,98 @@
     },
     {
       "Romanized": "ṇ",
-      "Classifications": ["consonant", "cerebral", "ṭa-group"],
+      "Classifications": ["consonant", "cerebral", "ṭa-group", "nasal"],
       "Pronunciation": "like n in hint"
     },
-    "t",
-    "th",
-    "d",
-    "dh",
-    "n",
-    "p",
-    "ph",
-    "b",
-    "bh",
-    "m",
-    "y",
-    "r",
-    "l",
-    "v",
-    "s",
-    "h",
-    "ḷ",
-    "ŋ"
+    {
+      "Romanized": "t",
+      "Classifications": ["consonant", "dental", "ta-group"],
+      "Pronunciation": "pronounced with the tip of the tongue placed against the front upper teeth"
+    },
+    {
+      "Romanized": "th",
+      "Classifications": ["consonant", "dental", "ta-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "d",
+      "Classifications": ["consonant", "dental", "ta-group"],
+      "Pronunciation": "pronounced with the tip of the tongue placed against the front upper teeth"
+    },
+    {
+      "Romanized": "dh",
+      "Classifications": ["consonant", "dental", "ta-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "n",
+      "Classifications": ["consonant", "dental", "ta-group", "nasal"],
+      "Pronunciation": "like n in hint"
+    },
+    {
+      "Romanized": "p",
+      "Classifications": ["consonant", "labial", "pa-group"],
+      "Pronunciation": "like p in lip"
+    },
+    {
+      "Romanized": "ph",
+      "Classifications": ["consonant", "labial", "pa-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "b",
+      "Classifications": ["consonant", "labial", "pa-group"],
+      "Pronunciation": "like b in rib"
+    },
+    {
+      "Romanized": "bh",
+      "Classifications": ["consonant", "labial", "pa-group"],
+      "Pronunciation": "aspirated consonant"
+    },
+    {
+      "Romanized": "m",
+      "Classifications": ["consonant", "labial", "pa-group", "nasal"],
+      "Pronunciation": "like m in him"
+    },
+    {
+      "Romanized": "y",
+      "Classifications": ["consonant", "palatal"],
+      "Pronunciation": "like y in yard"
+    },
+    {
+      "Romanized": "r",
+      "Classifications": ["consonant", "cerebral"],
+      "Pronunciation": "like r in rat"
+    },
+    {
+      "Romanized": "l",
+      "Classifications": ["consonant", "dental"],
+      "Pronunciation": "like l in sell"
+    },
+    {
+      "Romanized": "v",
+      "Classifications": ["consonant", "dental", "labial"],
+      "Pronunciation": "like v in vile"
+    },
+    {
+      "Romanized": "s",
+      "Classifications": ["consonant", "dental (sibilant)"],
+      "Pronunciation": "like s in sit"
+    },
+    {
+      "Romanized": "h",
+      "Classifications": ["consonant", "aspirate"],
+      "Pronunciation": "like h in hut"
+    },
+    {
+      "Romanized": "ḷ",
+      "Classifications": ["consonant", "cerebral"],
+      "Pronunciation": "like l in felt"
+    },
+    {
+      "Romanized": "ŋ",
+      "Classifications": ["consonant", "niggahīta"],
+      "Pronunciation": "like ng in sing"
+    }
   ]
 }
